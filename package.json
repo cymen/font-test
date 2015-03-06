@@ -1,0 +1,17 @@
+{
+  "name": "font-test",
+  "version": "0.0.1",
+  "description": "Example of using font-face-observer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cymen Vig <cymenvig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "font-face-observer": "git://github.com/cymen/font-face-observer.git"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3"
+  }
+}

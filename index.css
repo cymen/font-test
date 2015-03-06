@@ -1,0 +1,9 @@
+* {
+  margin: 8px 4px;
+}
+
+#rendered {
+  margin: 100px;
+  width: 300px;
+  height: auto;
+}
